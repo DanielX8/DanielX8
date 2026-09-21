@@ -35,13 +35,13 @@ I build reliable, secure, and deterministic systems across three core pillars:
 
 <div align="center">
 
-| Operational Domain | Technologies, Protocols & Tooling |
+| Operational Domain | Core Technologies, Frameworks & Protocols |
 |---|---|
-| **Software & App Dev** | `Kotlin` · `Android SDK` · `Jetpack Compose` · `SQLite / Room DB` · `REST APIs` · `Python` · `Bash` · `Git` |
-| **Networking & Protocols** | `Cisco CCNA` · `TCP/IP` · `VLAN 802.1Q` · `OSPF` · `BGP` · `Firewall ACLs` · `Wireshark` · `VOIP (Avaya)` |
-| **Systems Administration** | `Ubuntu Linux` · `Red Hat Enterprise Linux (RH124 v10.0)` · `Windows Server` · `Active Directory` · `Bare-Metal OS` |
-| **Forensics & Recovery** | `WinPE Offline Environments` · `DMDE Sector Analysis` · `DISM Driver Injection` · `Offline Registry Analysis` |
-| **SIEM & Detection** | `Wazuh SIEM` · `Elastic Stack (Elasticsearch, Logstash, Kibana)` · `IBM QRadar` · `MITRE ATT&CK` · `Syslog` |
+| **Threat Detection & SIEM** | `Wazuh SIEM` · `Elastic Stack (Elasticsearch, Logstash, Kibana)` · `IBM QRadar` · `MITRE ATT&CK` · `Custom Regex/XML Decoders` · `Syslog Forwarding` · `Alert Correlation & Tuning` |
+| **Incident Response & Forensics** | `WinPE Offline Environments` · `DMDE Sector Analysis` · `MBR/GPT Partition Recovery` · `DISM Driver Injection` · `Offline Registry Hive Analysis` · `EVTX Event Log Analysis` · `Zero Data Loss Recovery` |
+| **Network Defense & Hardening** | `Cisco CCNA` · `Firewall ACLs` · `VLAN 802.1Q Subnet Segmentation` · `TCP/IP Packet Inspection (Wireshark)` · `Switch Port Security` · `Enterprise Wireless Infrastructure` · `Compliance Auditing` |
+| **Systems & Access Hardening** | `Red Hat Enterprise Linux (RH124 v10.0)` · `Ubuntu Linux Hardening` · `Windows Server` · `Active Directory & GPO` · `Role-Based Access Control (RBAC)` · `Least Privilege Enforcement` |
+| **Software & Automation** | `Python (Security Tooling & Scripting)` · `Bash / Shell` · `Kotlin (Native Android)` · `SQLite / Room DB Integrity` · `REST APIs` · `Git` · `Docker` |
 
 </div>
 
