@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=190&section=header&text=DANIEL%20OKWACH%20ODHIAMBO&fontColor=22D3EE&fontSize=42&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SYSTEMS%20INCIDENT%20RESPONDER%20%7C%20NETWORK%20ENGINEER&descAlignY=62&descColor=7DD3FC&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=190&section=header&text=DANIEL%20OKWACH%20ODHIAMBO&fontColor=22D3EE&fontSize=42&fontAlignY=38&desc=SYSTEMS%2C%20SECURITY%20%26%20SOFTWARE%20ENGINEER&descAlignY=62&descColor=7DD3FC&descSize=16" width="100%"/>
 
 ```text
 OPERATOR   : Daniel Okwach Odhiambo
-ROLE       : Cybersecurity & Systems Incident Responder · Network Engineer
-FOCUS      : Digital Forensics · SIEM Telemetry & Decoders · Network Hardening · SecOps
+ROLE       : Systems, Security & Software Engineer
+FOCUS      : Software Engineering · Network Infrastructure · SecOps & Forensics
 CREDENTIALS: BSc Cybersecurity & Computer Networks · Cisco CCNA · Red Hat RH124 · ISC2 Candidate
 ```
 
@@ -19,15 +19,15 @@ CREDENTIALS: BSc Cybersecurity & Computer Networks · Cisco CCNA · Red Hat RH12
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=70&section=header&text=01%20—%20TECHNICAL%20SUMMARY&fontColor=22D3EE&fontSize=20&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=70&section=header&text=01%20—%20ENGINEERING%20PROFILE&fontColor=22D3EE&fontSize=20&fontAlignY=55" width="100%"/>
 
-I am a Cybersecurity & Systems Incident Responder specializing in **digital forensics**, **telemetry log analysis**, and **enterprise network hardening**. I hold a **BSc in Cyber Security & Computer Networks** from Strathmore University, **Cisco CCNA**, **Red Hat RH124**, and am an **ISC2 Candidate**.
+I am an engineer working at the intersection of **Software Development**, **Network Infrastructure**, and **Cybersecurity**. I hold a **BSc in Cyber Security & Computer Networks** from Strathmore University, along with **Cisco CCNA**, **Red Hat RH124**, and **ISC2 Candidate** credentials.
 
-Core engineering capabilities:
-* **Digital Forensics & Incident Response:** Restoring unbootable enterprise workstations via offline WinPE environments, DMDE sector analysis, and DISM driver injections with **zero data loss**.
-* **Detection Engineering & SIEM:** Designing containerized Wazuh and Elastic Stack SIEM architectures with custom regex decoders and alert pipelines mapped to **MITRE ATT&CK**.
-* **Enterprise Network Hardening:** Validating TCP/IP routing tables and firewall ACLs across multi-site branch infrastructure, eliminating **30% of identified vulnerabilities**.
-* **Large-Scale Infrastructure:** Deploying 100+ enterprise wireless APs and administering multi-site network infrastructure for **2,700+ concurrent users**.
+I build reliable, secure, and deterministic systems across three core pillars:
+
+* **Software & Application Engineering:** Architecting offline-first mobile applications on native Android (Kotlin, Jetpack Compose, localized SQLite / Room DB with defensive transactional migrations) and building automated data & telemetry pipelines.
+* **Systems Administration & Infrastructure:** Administering multi-platform enterprise infrastructure across Linux (Red Hat RH124 v10.0, Ubuntu) and Windows Server, executing bare-metal deployments, and performing offline forensic disaster recovery (WinPE, DMDE, DISM) with **zero data loss**.
+* **Networking & Security Operations:** Managing enterprise multi-site LAN/WAN routing and wireless AP deployments for **2,700+ concurrent users** (Cisco CCNA), conducting network compliance audits that reduced vulnerabilities by **30%**, and designing containerized SIEM threat detection pipelines (Wazuh, Elastic Stack) mapped to **MITRE ATT&CK**.
 
 <br>
 
