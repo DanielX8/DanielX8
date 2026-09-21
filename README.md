@@ -39,9 +39,10 @@ I build reliable, secure, and deterministic systems across three core pillars:
 |---|---|
 | **Threat Detection & SIEM** | `Wazuh SIEM` · `Elastic Stack (Elasticsearch, Logstash, Kibana)` · `IBM QRadar` · `MITRE ATT&CK` · `Custom Regex/XML Decoders` · `Syslog Forwarding` · `Alert Correlation & Tuning` |
 | **Incident Response & Forensics** | `WinPE Offline Environments` · `DMDE Sector Analysis` · `MBR/GPT Partition Recovery` · `DISM Driver Injection` · `Offline Registry Hive Analysis` · `EVTX Event Log Analysis` · `Zero Data Loss Recovery` |
-| **Network Defense & Hardening** | `Cisco CCNA` · `Firewall ACLs` · `VLAN 802.1Q Subnet Segmentation` · `TCP/IP Packet Inspection (Wireshark)` · `Switch Port Security` · `Enterprise Wireless Infrastructure` · `Compliance Auditing` |
-| **Systems & Access Hardening** | `Red Hat Enterprise Linux (RH124 v10.0)` · `Ubuntu Linux Hardening` · `Windows Server` · `Active Directory & GPO` · `Role-Based Access Control (RBAC)` · `Least Privilege Enforcement` |
-| **Software & Automation** | `Python (Security Tooling & Scripting)` · `Bash / Shell` · `Kotlin (Native Android)` · `SQLite / Room DB Integrity` · `REST APIs` · `Git` · `Docker` |
+| **Security Hardening & Audits** | `Firewall ACL Enforcement` · `Port Security (802.1X)` · `VLAN Isolation & Subnet Hardening` · `Vulnerability Audits` · `Active Directory Security & GPO` · `Role-Based Access Control (RBAC)` · `Least Privilege Baselines` |
+| **Network Infrastructure** | `Cisco CCNA` · `TCP/IP Architecture` · `VLAN 802.1Q & Trunking` · `OSPF & BGP Routing` · `Enterprise Wireless AP Deployment (100+ APs / 2,700+ Users)` · `Wireshark Packet Inspection` · `Multi-Site LAN/WAN` · `VOIP (Avaya)` |
+| **Systems Administration** | `Red Hat Enterprise Linux (RH124 v10.0)` · `Ubuntu Linux` · `Windows Server Administration` · `Bare-Metal OS Deployment` · `Operational Runbooks` · `Disaster Recovery Planning` |
+| **Software & Automation** | `Python (Automation & Scripting)` · `Bash / Shell` · `Kotlin (Native Android)` · `Jetpack Compose` · `SQLite / Room DB Integrity` · `REST APIs` · `Git` · `Docker` |
 
 </div>
 
