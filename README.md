@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=190&section=header&text=DANIEL%20OKWACH%20ODHIAMBO&fontColor=22D3EE&fontSize=42&fontAlignY=38&desc=SYSTEMS%2C%20SECURITY%20%26%20SOFTWARE%20ENGINEER&descAlignY=62&descColor=7DD3FC&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=190&section=header&text=DANIEL%20OKWACH%20ODHIAMBO&fontColor=22D3EE&fontSize=42&fontAlignY=38&desc=SYSTEMS%20%7C%20SECURITY%20%7C%20SOFTWARE%20ENGINEER&descAlignY=62&descColor=7DD3FC&descSize=16" width="100%"/>
 
 ```text
 OPERATOR   : Daniel Okwach Odhiambo
@@ -114,7 +114,7 @@ I build reliable, secure, and deterministic systems across three core pillars:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=70&section=header&text=04%20—%20SYSTEM%20METRICS%20%26%20ACTIVITY&fontColor=22D3EE&fontSize=20&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=70&section=header&text=04%20—%20SYSTEM%20METRICS%20AND%20ACTIVITY&fontColor=22D3EE&fontSize=20&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
@@ -128,7 +128,7 @@ I build reliable, secure, and deterministic systems across three core pillars:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=70&section=header&text=05%20—%20CREDENTIALS%20%26%20SPECIALIZATIONS&fontColor=10B981&fontSize=20&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=70&section=header&text=05%20—%20CREDENTIALS%20AND%20SPECIALIZATIONS&fontColor=10B981&fontSize=20&fontAlignY=55" width="100%"/>
 
 ```text
 [ COMPLETED / CERTIFIED ]  BSc Cyber Security & Computer Networks — Strathmore University (Second Class Upper)
@@ -154,7 +154,7 @@ I build reliable, secure, and deterministic systems across three core pillars:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=140&section=footer&text=LET'S%20CONNECT&fontColor=22D3EE&fontSize=26&fontAlignY=45&desc=LinkedIn%20·%20Email%20·%20GitHub&descAlignY=68&descColor=7DD3FC&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:111827&height=140&section=footer&text=LETS%20CONNECT&fontColor=22D3EE&fontSize=26&fontAlignY=45&desc=LinkedIn%20·%20Email%20·%20GitHub&descAlignY=68&descColor=7DD3FC&descSize=15" width="100%"/>
 
 <div align="center">
 
